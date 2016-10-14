@@ -1,0 +1,14 @@
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\bin\Debug\HRSystem.exe.config
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\bin\Debug\HRSystem.exe
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\bin\Debug\HRSystem.pdb
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.ResolveComReference.cache
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\obj\Debug\HRSystem.UserDetailsForm.resources
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\obj\Debug\HRSystem.Properties.Resources.resources
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.GenerateResource.Cache
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\obj\Debug\HRSystem.exe
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\obj\Debug\HRSystem.csprojResolveAssemblyReference.cache
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\bin\Debug\EntityFramework.dll
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\bin\Debug\EntityFramework.xml
+C:\Users\nmr1404\Documents\C#\Solutions\HRSystem\HRSystem\bin\Debug\EntityFramework.SqlServer.xml
