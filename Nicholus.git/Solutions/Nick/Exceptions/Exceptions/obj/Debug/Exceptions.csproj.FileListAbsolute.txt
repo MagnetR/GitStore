@@ -1,9 +1,0 @@
-C:\Users\nmr1404\Documents\C#\Solutions\Nick\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
-C:\Users\nmr1404\Documents\C#\Solutions\Nick\Exceptions\Exceptions\bin\Debug\Exceptions.exe
-C:\Users\nmr1404\Documents\C#\Solutions\Nick\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
-C:\Users\nmr1404\Documents\C#\Solutions\Nick\Exceptions\Exceptions\obj\Debug\Exceptions.csprojResolveAssemblyReference.cache
-C:\Users\nmr1404\Documents\C#\Solutions\Nick\Exceptions\Exceptions\obj\Debug\Exceptions.Form1.resources
-C:\Users\nmr1404\Documents\C#\Solutions\Nick\Exceptions\Exceptions\obj\Debug\Exceptions.Properties.Resources.resources
-C:\Users\nmr1404\Documents\C#\Solutions\Nick\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.GenerateResource.Cache
-C:\Users\nmr1404\Documents\C#\Solutions\Nick\Exceptions\Exceptions\obj\Debug\Exceptions.exe
-C:\Users\nmr1404\Documents\C#\Solutions\Nick\Exceptions\Exceptions\obj\Debug\Exceptions.pdb
